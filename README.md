@@ -6,14 +6,7 @@
 <a href="https://github.com/sb17ho?tab=repositories">
   <img align="left" alt="My Github" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" draggable = "false"/>
 </a>
-</br></br>
-___________________
-## About Me
-- I am currently working at General Motors as Android Developer. 
-- I am a good learner and like exploring/learning new thinks
-- Sometimes I take up new things for fun like for this bio 😆
-
-So, let's not bore everyone. 
+</br></br> 
 ___________________
 ## Contact 
 <a href="https://www.linkedin.com/in/simar-bhamra-b81039172/">
