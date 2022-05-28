@@ -2,7 +2,7 @@
 
 ## Welcome to My Github!!
 [![Repos Badge](https://badges.pufler.dev/repos/sb17ho)](https://badges.pufler.dev)
-</br></br>
+</br>
 <a href="https://github.com/sb17ho?tab=repositories">
   <img align="left" alt="My Github" width="45px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" draggable = "false"/>
 </a>
